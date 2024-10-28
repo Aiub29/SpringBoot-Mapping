@@ -17,4 +17,9 @@ public class Address {
     private Long addressId;
     private String city;
     private  String addressType;
+
+    // By Directioanl
+
+//    @OneToOne(mappedBy = "address")
+//    private  Employee employee;
 }

@@ -1,0 +1,18 @@
+[
+    {
+        "name":"Nahid",
+        "age":24,
+        "address":{
+            "city":"Dhaka",
+            "addressType":"Present"
+        }
+    },
+      {
+        "name":"Jakir",
+        "age":45,
+        "address":{
+            "city":"Jampalpur",
+            "addressType":"Permanent"
+        }
+    }
+]
